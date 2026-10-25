@@ -40,7 +40,7 @@ Programs written with Arduino IDE are called sketches. These sketches are writte
 Select board "Arduino Uno R4 Minima". (Freenove control board is compatible with this board.)
 6)Connect control board to your computer with USB cable.
 Select the port. Note: Your port may be different from the following figure. On Windows: It may be COM4, COM5 (Arduino Uno R4 Minima) or something like that. On Mac: It may be /dev/cu.usbserial-710, /dev/cu.usemodem7101 (Arduino Uno R4 Minima) or something like that.
-Need help? Contact support@freenove.com █
+
 On Linux: It may be /dev/ttyUSB0, /dev/ttyACM0 or something like that.
 
 Note: If there is more than one port and you cannot decide which one to choose, disconnect the USB cable and check the port. Then connect the USB cable and check the port again. The new one is the correct port.
